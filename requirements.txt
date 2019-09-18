@@ -1,0 +1,9 @@
+matplotlib
+mdf_forge
+numpy
+pandas
+scikit-learn
+seaborn
+tqdm
+globus-sdk>=1.2.1
+requests>=2.18.4

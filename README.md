@@ -1,4 +1,5 @@
 # MDF Examples
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materials-data-facility/mdf_examples/master)
 Example notebooks showing examples of how to use MDF
 
 # Support
